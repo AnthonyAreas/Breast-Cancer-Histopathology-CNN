@@ -27,10 +27,10 @@ cd Breast-Cancer-Histopathology-CNN
 pip install -r requirements.txt
 ```
 
-4. Open Jupyter Notebook.
+4. Open Colab.
 
 ```
-jupyter notebook
+Google colab notebook use runtime t4GPU
 ```
 
 5. Open:
@@ -53,6 +53,8 @@ notebooks/CV_project2(2).ipynb
 - OpenCV
 - Pillow
 - tqdm
+- YOLO
+- ultralytics
 
 ## Dataset
 
